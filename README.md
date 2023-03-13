@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Freelance Project<br>🌱 I’m currently building myself as a MERN Stack Developer<br>🏫 Bachelor of Engineering in Computer Engineering, University of Mumbai
+# About Me:
+🌱 I’m currently building myself as a MERN Stack Developer<br>🏫 Bachelor of Engineering in Computer Engineering, University of Mumbai
 
 
 # 💻 Tech Stack:
