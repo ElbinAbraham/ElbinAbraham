@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElbinAbraham&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ElbinAbraham&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ElbinAbraham&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
